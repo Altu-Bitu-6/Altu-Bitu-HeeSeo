@@ -18,7 +18,7 @@ void jp(queue<int> Q, int k) {
 
 int main() {
     int N, K;
-    queue<int> q;
+    queue<int> q; //원형큐
 
     cin >> N >> K;
 
